@@ -1,9 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
+
 }
 .namehighlight{
     color: royalblue;
 
+}
+section{
+    height: 500px;
 }
 .halfwidth{
     width: 40%;
@@ -15,4 +20,10 @@ body{
 }
 .halfwidth img{
     width: 100%;
+}
+.banner{
+   
+    background-repeat: no-repeat;
+    background-color:rgb(185, 247, 227);
+
 }

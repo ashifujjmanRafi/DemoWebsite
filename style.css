@@ -24,13 +24,21 @@ section{
 .banner{
    
     background-repeat: no-repeat;
-    background-color:rgb(185, 247, 227);
+    background-image: linear-gradient(rgb(152, 152, 250),rgb(107, 189, 243));
 
 }
 p{
-    border: solid 1px rgb(20, 15, 20);
     padding: 10px;
     margin: 1px;
-    color: rgb(177, 179, 162);
-    background-color: rgb(16, 20, 19);
+    
+}
+.button{
+    text-decoration: none;
+    color: rosybrown;
+    
+    border-radius: 4px;
+    padding:5px 10px;
+    font-weight: 700;
+    background-image:linear-gradient(indigo,royalblue) ;
+
 }

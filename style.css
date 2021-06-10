@@ -9,11 +9,12 @@ body{
 }
 section{
     height: 500px;
+    margin: 10px;
 }
 .halfwidth{
-    width: 40%;
+    width: 30%;
     float: left;
-    margin-left:  5%;
+    margin-left:  10%;
     padding-left: 2%;
     
 
@@ -24,7 +25,7 @@ section{
 .banner{
    
     background-repeat: no-repeat;
-    background-image: linear-gradient(rgb(152, 152, 250),rgb(107, 189, 243));
+   
 
 }
 p{
@@ -36,9 +37,18 @@ p{
     text-decoration: none;
     color: rosybrown;
     
-    border-radius: 6px;
+    border-radius: 16px;
     padding:5px 10px;
     font-weight: 700;
     background-image:linear-gradient(indigo,royalblue) ;
+
+}
+.button2{
+    text-decoration: none;
+    color: rgb(24, 16, 16);  
+    border-radius: 16px;
+    padding:10px 20px;
+    font-weight: 700;
+    background-image:linear-gradient(rgb(241, 218, 86),rgb(236, 156, 8)) ;
 
 }

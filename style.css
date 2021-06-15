@@ -3,7 +3,7 @@ body{
     margin: 0px;
 
 }
-.namehighlight{
+.highlight{
     color: royalblue;
 
 }
@@ -51,4 +51,15 @@ p{
     font-weight: 700;
     background-image:linear-gradient(rgb(241, 218, 86),rgb(236, 156, 8)) ;
 
+}
+.single-experience{
+    box-shadow:10px 10px 50px gray;
+    height: 75%;
+    border-radius: 5px ;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,violet);
+    border-image-slice:1 ;
+}
+footer p{
+    text-align: center;
 }

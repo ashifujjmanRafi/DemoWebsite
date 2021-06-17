@@ -1,0 +1,23 @@
+.highlight{
+    color: skyblue;
+    font-weight: bold;
+}
+.body{
+    font-family: 'Bebas Neue', cursive;
+}
+#third{
+    float: left;
+    width: 25%;
+}
+#bigger{
+    float: left;
+    width: 65%;
+}
+
+.first{
+    float: left;
+
+}
+.pic{
+    width: 30%;
+}
